@@ -1,0 +1,29 @@
+title: Yulu
+url: "https://ganyulu.github.io"
+baseurl: "/"
+
+markdown: kramdown
+# ins_logo: "./pkulogo.png"
+
+tracking_id: #
+
+favicon: yes
+favicon_location: "favicon.png"
+
+footer: yes
+footer_url: "https://github.com/Yulu-gan"
+footer_text: "Page design by YuluGan"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
+
+theme: jekyll-theme-time-machine
