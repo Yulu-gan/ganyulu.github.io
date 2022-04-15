@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="ganyulu.jpg">
+<img class="profile-picture" src="yulugan.jpg">
 I am a student of Master at College of Engineering, [Peking University](https://www.pku.edu.cn/), and under the supervision by professor [Lin Luo](https://www.coe.pku.edu.cn/teaching/all_time/11195.html). I've received the B.E. degree from [Zhejiang University of technology](http://www.zjut.edu.cn/) in 2021. I'm familiar with C/C++, Python and Pytorch, Tensorflow.
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
