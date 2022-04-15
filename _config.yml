@@ -1,5 +1,5 @@
-title: Yulu
-url: "https://ganyulu.github.io"
+title: Jianzhong
+url: "home.jianzhong.cn"
 baseurl: "/"
 
 markdown: kramdown
@@ -11,8 +11,8 @@ favicon: yes
 favicon_location: "favicon.png"
 
 footer: yes
-footer_url: "https://github.com/Yulu-gan"
-footer_text: "Page design by YuluGan"
+footer_url: "https://github.com/pkuCactus"
+footer_text: "Page design by Jianzhong He"
 
 sass:
     style: compressed
