@@ -4,30 +4,28 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="jianzhong.jpg">
-Hi! I am a junior year student of Master at School of Electronics Engineering and Computer Science, [Peking University](https://www.pku.edu.cn/), and under the supervision by professor [Shiliang Zhang](https://www.pkuvmc.com). I've received the B.E. degree from School of Computer Science of [Sichuan University](http://www.scu.edu.cn/) in 2016. I'm familiar with C/C++, Java, Python and Caffe, Pytorch.
+<img class="profile-picture" src="ganyulu.jpg">
+I am a student of Master at College of Engineering, [Peking University](https://www.pku.edu.cn/), and under the supervision by professor [Lin Luo](https://www.coe.pku.edu.cn/teaching/all_time/11195.html). I've received the B.E. degree from [Zhejiang University of technology](http://www.zjut.edu.cn/) in 2021. I'm familiar with C/C++, Python and Pytorch, Tensorflow.
 
 <!-- This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher) -->
 
 ## Research Interest
 
-My research interest include Edge Detection, Semantic Segmentation, and Deep Learning.
+My research interest include Objective Detection, Image caption, and Deep Learning.
 
 ## Experience
-* Intership in Horizon Robotics Inc., May 2018 -- May 2019
-* Vice president of IBM Club, Sichuan University, 2014 -- 2015
-* Vice president of Web Development Association, SiChuan University, 2014 -- 2015
+* Intership in nstitute of information technology, Peking University. April 2021 -- June 2021
+
 
 ## Publications
 
-1. **Jianzhong He**, Shiliang Zhang and etc.: Bi-Direction Cascade Network for Perceptual Edge Detection(**CVPR2019**).
-2. **Jianzhong He**, Xiaobin Liu and Shiliang Zhang: EAGER: Edge-Aided imaGe undERstanding System(**ICMR2019**).
+to be updated
 
 ## Skills
 
-* Programming Level: Familiar with C, C++ and Python ect. programming language and Caffe, Pytorch and MXNET etc. deep learning frame work. And with some knowledge of SQL, HTML and Javascript etc.
-* Research Field: I'm interested in edge detection and image segmentation, and has some knowledge of Object detection, person re-id and fine-grained classification.
-* English: CET-6(479)
+* Programming Level: Familiar with C, C++ and Python ect. programming language and Pytorch and Tensorflow etc. deep learning frame work. And with some knowledge of SQL, HTML etc.
+* Research Field: I'm interested in Objective Detection, Image caption, and has some knowledge of Question-Answer Generation and multi-module.
+* English: TOEFL(100) 
 
 <!-- ## Typography
 
@@ -56,13 +54,7 @@ Here is a blockquote
 * John Doe: Associate Professor, Department of Computer Science, Ipsum -->
 
 ## Awards
-* Merit Student, Peking University, 2018
-* Postgraduate special scholarship of EECS, Peking University Dec. 2017
-* IBM mainframe application of 2014 national campus competition, Single Group, 2<sup>nd</sup> Prize and Team Group, 3<sup>rd</sup> Prize Dec. 2014
-* The 39th ACM-ICPC international collegiate programming competition, Xi'an, Asian regional competition, Bronze medal Oct. 2014
-* The 5th "blue bridge cup" national software and information technology talent competition, 1<sup>st</sup> Prize of Province and 3<sup>rd</sup> Prize of National May. 2014
-* "Challenge cup" web design competition of sichuan university, 2<sup>nd</sup> Prize Nov. 2013
-* National Scholarship, Sichuan University comprehensive first class scholarship 2014 -- 2015
-* IBM Outstanding Student 2015 Scholarship Dec. 2015
-* Sichuan University comprehensive second class scholarship 2013 -- 2014
-* National Inspirational Scholarship 2013 -- 2014
+* Outstanding student, ZJUT, 2017-2020
+* Top-10 students from Undergraduate to phd, Zhejiang Province, 2020
+* National Scholarship, 2018-2021
+* 2 Silver Medals, Kaggle, 2022
