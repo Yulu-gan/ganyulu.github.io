@@ -16,7 +16,7 @@ My research interest include Objective Detection, Image caption, and Deep Learni
 
 Experience
 ------
-* Intership in nstitute of information technology, Peking University. April 2021 -- June 2021
+* Intership in Intelligent Computing Center, Institute of Information Technology, Peking University. April 2021 -- June 2021
 
 Publications
 ------
@@ -25,12 +25,12 @@ I need to work hard
 Skills
 ------
 * Programming Level: Familiar with C, C++ and Python ect. programming language and Pytorch and Tensorflow etc. deep learning frame work. And with some knowledge of SQL, HTML etc.
-* Research Field: I'm interested in Objective Detection, Image caption, and has some knowledge of Question-Answer Generation and multi-module.
+* Research Field: I'm interested in Objective Detection, Image caption, and has some knowledge of Question-Answer Generation and multi-module pre-training/fusion.
 * English: TOEFL(100) 
 
 Awards
 ------
 * Outstanding student, ZJUT, 2017-2020
-* Top-10 students from Undergraduate to phd, Zhejiang Province, 2020
+* Top-10 students from undergraduate to phd, Zhejiang Province, 2020
 * National Scholarship, 2018-2021
 * 2 Silver Medals, Kaggle, 2022
