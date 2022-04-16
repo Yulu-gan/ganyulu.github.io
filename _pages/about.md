@@ -30,7 +30,8 @@ Skills
 
 Awards
 ------
-* Outstanding student, ZJUT, 2017-2020
+* Outstanding graduates, Zhejiang Province, 2021
+* National robots competition, Second prize , 2019
 * Top-10 students from undergraduate to phd, Zhejiang Province, 2020
 * National Scholarship, 2018-2021
 * 2 Silver Medals, Kaggle, 2022
