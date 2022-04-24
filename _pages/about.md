@@ -17,6 +17,7 @@ My research interest include Objective Detection, Image caption, and Deep Learni
 Experience
 ------
 * Intership in Intelligent Computing Center, Institute of Information Technology, Peking University. April 2021 -- June 2021
+* Reaserch intern in Computer Vision Depart, HuaWei technology. April 2022 -- now
 
 Publications
 ------
